@@ -70,6 +70,7 @@
 
 #indepth_cover{
 	height: 757px;
+	min-height: 500px;
 	background: #141414;
 }
 
@@ -735,7 +736,7 @@ background-size: cover;
 
 }
 
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 420px) {
 
 	#indepth_cover{
 		height: 540px;	
@@ -766,7 +767,7 @@ background-size: cover;
 	
 }
 
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 420px) {
 
 	#indepth_cover{
 		height: 540px;	

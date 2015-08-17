@@ -126,7 +126,7 @@ $(document).on("click", ".adivina_btn", function(){
 				if(respuestasletra[1]=="c"){
 					obj=pregunta2c_si;
 					tecnico="Bielsa";
-					$("#adivina_preg").html("¡"+tecnico+" seréa tu técnico del Tri! ");
+					$("#adivina_preg").html("¡"+tecnico+" sería tu técnico del Tri! ");
 					$(".indepth_share_card_boton").css("display","table");
 					$(".adivina_botones").hide();
 				}
